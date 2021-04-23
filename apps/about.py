@@ -16,7 +16,7 @@ def app():
         st.markdown('''
         
     
-    We think there are 3 different galaxies in our clusters of data. We are trying to find them and  map them in this Project. We think that we can find baby yoda in the rightmost planet of this galaxy.
+    We think there are 3 different galaxies in our clusters of data. We are trying to find them and  map them in this Project. We think that we can find baby yoda in the uppermost galaxy and rightmost planet of this galaxy..
     
     
    ⬇️⬇️ This Project was created by 3 ***[Strive School](https://strive.school/)*** Students.⬇️⬇️
