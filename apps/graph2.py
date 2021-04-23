@@ -30,7 +30,7 @@ def app():
             As you can see, we have another 6 clusters which represent the planets. The orange point in the bottem cluster represent the center of gravity.
             ''')
             
-        with st.beta_expander('• Here is baby yods location. CLICK HERE!'):
+        with st.beta_expander("• Here is baby yoda's location. CLICK HERE!"):
             image = Image.open('location.jpeg')
             st.image(image , caption='')
             st.markdown(''' 
