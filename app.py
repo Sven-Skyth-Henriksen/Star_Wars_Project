@@ -1,7 +1,7 @@
 from PIL import Image
 import streamlit as st
 from multiapp import MultiApp
-from apps import about, home # import your app modules here
+from apps import about, home, data # import your app modules here
 
 app = MultiApp()
 
@@ -25,7 +25,7 @@ st.markdown('Please select a page:')
 # Add all your application here
 app.add_app('Home',home.app)
 app.add_app("About", about.app)
-#app.add_app("Data", data.app)
+app.add_app("Data", data.app)
 #app.add_app('Data Analysis', graph.app)
 #app.add_app('Recommendation', tinker.app)
 
