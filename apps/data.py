@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 from PIL import Image
 
+
 def app():
     
     data = st.beta_container()
