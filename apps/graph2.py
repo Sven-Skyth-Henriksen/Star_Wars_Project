@@ -34,7 +34,7 @@ def app():
             image = Image.open('location.jpeg')
             st.image(image , caption='')
             st.markdown(''' 
-            The gree point on the graph represents the neares point to the orange one so that means that we can find baby yoda on this coordinates: ***[-0.14618598571053917 , -0.0314798954338306]***
+            The green point on the graph represents the neares point to the orange one so that means that we can find baby yoda on this coordinates: ***[-0.14618598571053917 , -0.0314798954338306]***
             ''')        
            
 app()
