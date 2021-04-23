@@ -7,10 +7,10 @@ app = MultiApp()
 
 
 
-st.markdown("![Alt Text](https://media4.giphy.com/media/kAUgtSozkruPC/giphy.gif?cid=ecf05e479pk2ussq7xsuj51wmqguurjnhf3bl30j7v4atlbw&rid=giphy.gif&ct=g)")
+st.markdown("![title gif](https://media4.giphy.com/media/gXYlKennAlNfy/200w.webp?cid=ecf05e475f1zz2nhrj1xonfu9m5j6toky5akxiqi2ylxps84&rid=200w.webp&ct=g)")
 
 
-st.title(' Team General Grievious welcomes you to our website')
+st.markdown(' ## Team General Grievous welcomes you to our website')
 st.text(' ')
 st.markdown('----------------------------------------------- ')
 st.text(' ')

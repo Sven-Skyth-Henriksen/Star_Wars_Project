@@ -13,10 +13,10 @@ def app():
         st.write("""In this project, we navigate through Star Wars Galaxy data to find baby yoda's location. From the data, 
      we got some interesting insights that you might be curious to know and stored the answers in a readable format for your convinience.""")
         st.title('Data')
-        st.markdown("![Data](https://media4.giphy.com/media/xT9C25UNTwfZuk85WP/200.webp?cid=ecf05e47844brv5239cczg9hqo5ernebyirvx4xaua7k2dk8&rid=200.webp&ct=g)")
+        st.markdown("![Data](https://media3.giphy.com/media/4FQMuOKR6zQRO/giphy.webp?cid=ecf05e47teulwamthzfh5rqgji0j4nmfxw1b52c2rgsybk50&rid=giphy.webp&ct=g)")
 
         if st.checkbox('Reveal The Library'):
-            st.subheader('Books')
+            st.subheader('Galaxy coordinates')
             st.write(df) #.header(50) inside the the ()
     
                     

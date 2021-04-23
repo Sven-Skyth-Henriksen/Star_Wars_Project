@@ -7,7 +7,7 @@ def app():
     image = st.beta_container()
 
     with header:
-        st.title('🌐 Find the approx location of baby yoda is in the galaxy 🌐')     
+        st.title(' Find the approx location of baby yoda is in the galaxy ')     
         st.text('')
         st.text('')
         st.text('')
