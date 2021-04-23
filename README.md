@@ -3,7 +3,7 @@
 
 ## How to Run
 
-![](https://miro.medium.com/max/850/1*dgs1AKT5Z0BEiyxJ53hu0w.jpeg)
+![](https://c4.wallpaperflare.com/wallpaper/895/480/30/star-wars-battlefront-ii-general-grievous-5k-wallpaper-preview.jpg)
 
 1. Clone the repository:
 
