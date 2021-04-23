@@ -2,7 +2,7 @@ from PIL import Image
 import streamlit as st
 from multiapp import MultiApp
 
-from apps import home, about, data, graph# import your app modules here
+from apps import home, about, data, graph, graph2# import your app modules here
 
 app = MultiApp()
 
@@ -28,7 +28,7 @@ app.add_app('Home', home.app)
 app.add_app("About", about.app)
 app.add_app("Data", data.app)
 app.add_app('Galaxies Analysis', graph.app)
-#app.add_app('Recommendation', tinker.app)
+app.add_app('Planets Analysis', graph2.app)
 
 
 

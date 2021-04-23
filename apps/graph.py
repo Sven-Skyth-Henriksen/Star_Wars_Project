@@ -9,8 +9,6 @@ def app():
     media = st.beta_container()
     image = st.beta_container()
 
-    df = pd.read_csv('galaxies.csv')
-
     with media:
         # Another1
 
