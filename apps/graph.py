@@ -26,7 +26,7 @@ def app():
             image = Image.open('galaxy.jpeg')
             st.image(image , caption='')
             st.markdown(''' 
-            Uppermost Galaxy has the centroid coordinates: ***[5.46605246 9.68163004]***
+            Uppermost Galaxy has the centroid coordinates: ***[5.46605246 , 9.68163004]***
             ''')
             
             
